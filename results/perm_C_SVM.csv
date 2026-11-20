@@ -1,0 +1,2 @@
+subset,protocol,model,observed,null_mean,null_max,n_perm,p
+all,C_position_LOSO,SVM,0.3914209115281501,0.3409115281501341,0.4673815907059875,100,0.12871287128712872

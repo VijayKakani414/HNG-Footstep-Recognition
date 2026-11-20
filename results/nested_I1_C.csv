@@ -1,0 +1,21 @@
+attempt,protocol,fold,model,best_params,n_test,acc,f1
+I1_C,C_position_LOSO,P1,SVM,"{'svc__C': 100, 'svc__gamma': 0.03}",114,0.5,0.46958304853041694
+I1_C,C_position_LOSO,P1,RF,"{'max_depth': 5, 'max_features': 0.5, 'n_estimators': 100}",114,0.4649122807017544,0.4182010582010582
+I1_C,C_position_LOSO,P2,SVM,"{'svc__C': 30, 'svc__gamma': 0.01}",117,0.15384615384615385,0.1503968253968254
+I1_C,C_position_LOSO,P2,RF,"{'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 100}",117,0.18803418803418803,0.16073301319202957
+I1_C,C_position_LOSO,P3,SVM,"{'svc__C': 0.3, 'svc__gamma': 0.01}",108,0.46296296296296297,0.4081961948891879
+I1_C,C_position_LOSO,P3,RF,"{'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 300}",108,0.4722222222222222,0.40011463945890174
+I1_C,C_position_LOSO,P4,SVM,"{'svc__C': 100, 'svc__gamma': 'scale'}",97,0.5154639175257731,0.4875302118834679
+I1_C,C_position_LOSO,P4,RF,"{'max_depth': None, 'max_features': 0.5, 'n_estimators': 300}",97,0.21649484536082475,0.19412871066464452
+I1_C,C_position_LOSO,P5,SVM,"{'svc__C': 0.3, 'svc__gamma': 0.01}",115,0.33043478260869563,0.30045328213086436
+I1_C,C_position_LOSO,P5,RF,"{'max_depth': 10, 'max_features': 0.5, 'n_estimators': 100}",115,0.25217391304347825,0.23596489521103736
+I1_C,C_position_LOSO,P6,SVM,"{'svc__C': 0.3, 'svc__gamma': 0.01}",93,0.21505376344086022,0.15147302217808672
+I1_C,C_position_LOSO,P6,RF,"{'max_depth': None, 'max_features': 0.5, 'n_estimators': 100}",93,0.3118279569892473,0.3143181710077532
+I1_C,C_position_LOSO,P7,SVM,"{'svc__C': 0.3, 'svc__gamma': 0.01}",113,0.40707964601769914,0.40572358498055094
+I1_C,C_position_LOSO,P7,RF,"{'max_depth': None, 'max_features': 0.5, 'n_estimators': 100}",113,0.34513274336283184,0.33987906583952104
+I1_C,C_position_LOSO,P8,SVM,"{'svc__C': 0.3, 'svc__gamma': 0.01}",117,0.46153846153846156,0.4280355574050955
+I1_C,C_position_LOSO,P8,RF,"{'max_depth': 5, 'max_features': 0.5, 'n_estimators': 100}",117,0.3162393162393162,0.30194595140486585
+I1_C,C_position_LOSO,P9,SVM,"{'svc__C': 30, 'svc__gamma': 'scale'}",125,0.304,0.2994339206508687
+I1_C,C_position_LOSO,P9,RF,"{'max_depth': None, 'max_features': 0.5, 'n_estimators': 100}",125,0.312,0.3130883453464099
+I1_C,C_position_LOSO,P10,SVM,"{'svc__C': 30, 'svc__gamma': 0.03}",120,0.19166666666666668,0.15002832058906826
+I1_C,C_position_LOSO,P10,RF,"{'max_depth': 10, 'max_features': 0.5, 'n_estimators': 300}",120,0.4166666666666667,0.3486198763307197

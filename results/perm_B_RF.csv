@@ -1,0 +1,2 @@
+subset,protocol,model,observed,null_mean,null_max,n_perm,p
+all,B_person_crossday,RF,0.3798521256931608,0.10722735674676526,0.2134935304990758,100,0.009900990099009901

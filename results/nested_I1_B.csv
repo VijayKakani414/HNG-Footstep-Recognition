@@ -1,0 +1,13 @@
+attempt,protocol,fold,model,best_params,n_test,acc,f1
+I1_B,B_person_crossday,heel_D1toD2,SVM,"{'svc__C': 10, 'svc__gamma': 0.01}",176,0.42045454545454547,0.36848847636583665
+I1_B,B_person_crossday,heel_D1toD2,RF,"{'max_depth': 5, 'max_features': 0.5, 'n_estimators': 100}",176,0.4090909090909091,0.3452690658573012
+I1_B,B_person_crossday,heel_D2toD1,SVM,"{'svc__C': 3, 'svc__gamma': 'scale'}",173,0.3468208092485549,0.25840939824205544
+I1_B,B_person_crossday,heel_D2toD1,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}",173,0.4046242774566474,0.2882053781176588
+I1_B,B_person_crossday,meta_D1toD2,SVM,"{'svc__C': 10, 'svc__gamma': 'scale'}",194,0.33505154639175255,0.26070126853202097
+I1_B,B_person_crossday,meta_D1toD2,RF,"{'max_depth': 5, 'max_features': 0.5, 'n_estimators': 300}",194,0.42783505154639173,0.32091122002314076
+I1_B,B_person_crossday,meta_D2toD1,SVM,"{'svc__C': 3, 'svc__gamma': 0.03}",193,0.36787564766839376,0.2765846389493754
+I1_B,B_person_crossday,meta_D2toD1,RF,"{'max_depth': 10, 'max_features': 'sqrt', 'n_estimators': 100}",193,0.41450777202072536,0.3408159055103311
+I1_B,B_person_crossday,toe_D1toD2,SVM,"{'svc__C': 10, 'svc__gamma': 0.01}",172,0.29069767441860467,0.19981132849349903
+I1_B,B_person_crossday,toe_D1toD2,RF,"{'max_depth': None, 'max_features': 0.5, 'n_estimators': 100}",172,0.27325581395348836,0.15680907914880157
+I1_B,B_person_crossday,toe_D2toD1,SVM,"{'svc__C': 3, 'svc__gamma': 'scale'}",174,0.27586206896551724,0.17819240918236615
+I1_B,B_person_crossday,toe_D2toD1,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 300}",174,0.3505747126436782,0.25630912297578967

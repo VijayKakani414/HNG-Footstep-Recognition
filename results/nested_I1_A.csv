@@ -1,0 +1,21 @@
+attempt,protocol,fold,model,best_params,n_test,acc,f1
+I1_A,A_sameday_30class,day1_fold0,SVM,"{'svc__C': 10, 'svc__gamma': 0.01}",124,0.782258064516129,0.7664117364117364
+I1_A,A_sameday_30class,day1_fold0,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}",124,0.782258064516129,0.7733068783068783
+I1_A,A_sameday_30class,day1_fold1,SVM,"{'svc__C': 3, 'svc__gamma': 'scale'}",123,0.7886178861788617,0.7874146224146225
+I1_A,A_sameday_30class,day1_fold1,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}",123,0.8211382113821138,0.8241125541125541
+I1_A,A_sameday_30class,day1_fold2,SVM,"{'svc__C': 30, 'svc__gamma': 0.01}",119,0.8571428571428571,0.8570899470899472
+I1_A,A_sameday_30class,day1_fold2,RF,"{'max_depth': 10, 'max_features': 'sqrt', 'n_estimators': 100}",119,0.8739495798319328,0.8746657046657048
+I1_A,A_sameday_30class,day1_fold3,SVM,"{'svc__C': 30, 'svc__gamma': 0.01}",110,0.8636363636363636,0.8637037037037038
+I1_A,A_sameday_30class,day1_fold3,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}",110,0.8636363636363636,0.8471693121693122
+I1_A,A_sameday_30class,day1_fold4,SVM,"{'svc__C': 10, 'svc__gamma': 0.03}",101,0.801980198019802,0.79489417989418
+I1_A,A_sameday_30class,day1_fold4,RF,"{'max_depth': None, 'max_features': 0.5, 'n_estimators': 300}",101,0.7821782178217822,0.7671620971620972
+I1_A,A_sameday_30class,day2_fold0,SVM,"{'svc__C': 10, 'svc__gamma': 0.03}",114,0.631578947368421,0.6050639836354123
+I1_A,A_sameday_30class,day2_fold0,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 300}",114,0.631578947368421,0.6075551432694289
+I1_A,A_sameday_30class,day2_fold1,SVM,"{'svc__C': 3, 'svc__gamma': 'scale'}",112,0.7946428571428571,0.7939728921871779
+I1_A,A_sameday_30class,day2_fold1,RF,"{'max_depth': None, 'max_features': 0.5, 'n_estimators': 300}",112,0.8125,0.8058106575963719
+I1_A,A_sameday_30class,day2_fold2,SVM,"{'svc__C': 100, 'svc__gamma': 0.01}",112,0.8571428571428571,0.8487244897959183
+I1_A,A_sameday_30class,day2_fold2,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 300}",112,0.8660714285714286,0.8556405895691609
+I1_A,A_sameday_30class,day2_fold3,SVM,"{'svc__C': 10, 'svc__gamma': 0.03}",110,0.8363636363636363,0.8337971552257268
+I1_A,A_sameday_30class,day2_fold3,RF,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 300}",110,0.8727272727272727,0.8706735724592868
+I1_A,A_sameday_30class,day2_fold4,SVM,"{'svc__C': 10, 'svc__gamma': 0.01}",94,0.776595744680851,0.768764172335601
+I1_A,A_sameday_30class,day2_fold4,RF,"{'max_depth': 10, 'max_features': 'sqrt', 'n_estimators': 300}",94,0.8404255319148937,0.8314445475159762
